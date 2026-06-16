@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val btn = findViewById<Button>(R.id.btnClick)
         btn.setOnClickListener {
-            Toast.makeText(this, "Hello from ApexPlanet! 🚀", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Hello Hritvik! 🚀", Toast.LENGTH_SHORT).show()
         }
     }
 }
