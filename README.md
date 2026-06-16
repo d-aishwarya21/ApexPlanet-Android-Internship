@@ -73,3 +73,38 @@ Click ▶️ Run button → Select emulator or device
 ---
 
 ## 📁 Project Structure
+
+# 📱 Task 2 — UI/UX Design Implementation
+
+## 🎯 Objective
+Design and implement Android application UI screens using Jetpack Compose, focusing on clean design, navigation, and user experience.
+
+## 📋 Features Implemented
+- Login Screen
+- Home Screen
+- Task Screen
+- User-friendly Interface
+- Navigation Between Screens
+- Responsive Layout Design
+
+## 🛠 Technologies Used
+- Kotlin
+- Jetpack Compose
+- Android Studio
+
+## 📸 Screenshots
+
+### Login Screen
+(Add Screenshot Here)
+
+### Home Screen
+(Add Screenshot Here)
+
+### Task Screen
+(Add Screenshot Here)
+
+## 🚀 Outcome
+Successfully designed and implemented the required UI/UX screens as part of Task 2 of the ApexPlanet 45-Day Android Internship Program.
+
+## 👩‍💻 Developed By
+Aishwarya
