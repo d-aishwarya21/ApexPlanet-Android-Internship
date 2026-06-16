@@ -74,3 +74,49 @@ Click ▶️ Run button → Select emulator or device
 
 ## 📁 Project Structure
 
+
+# 🎨 Task 2 – Designing and Implementing UI/UX
+
+## 📌 Objective
+Create and implement user interface and user experience designs for an Android application.
+
+## 📅 Timeline
+Days 10–18
+
+## 📚 Activities Completed
+
+### 📝 Days 10–12: Design Preparation
+- Studied UI/UX principles and design best practices.
+- Planned application structure and screen layouts.
+- Designed user-friendly interfaces.
+
+### 🛠️ Days 13–15: Implement UI Components
+- Converted UI designs into Android layouts.
+- Implemented buttons, text fields, and navigation components.
+- Developed Login, Home, and Task screens.
+
+### 🎨 Days 16–18: Integrate Design
+- Applied themes and styling.
+- Improved user experience and visual consistency.
+- Ensured responsive layouts across different screen sizes.
+
+## 🚀 Features Implemented
+- Login Screen
+- Home Screen
+- Task Screen
+- Responsive UI Design
+- Navigation Between Screens
+- Clean and Modern Interface
+
+## 🛠️ Technologies Used
+- Kotlin
+- Android Studio
+- Jetpack Compose
+
+## 📦 Deliverables
+- GitHub repository updated with implemented UI/UX components.
+- Complete UI/UX design implementation for the Android application.
+
+## ✅ Outcome
+Successfully designed and implemented Android UI/UX components following modern design principles as part of Task 2 of the ApexPlanet 45-Day Android Internship Program.
+
